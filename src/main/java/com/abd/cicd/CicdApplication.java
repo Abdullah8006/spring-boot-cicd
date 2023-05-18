@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
-* This is test multiline comment.
+* This is test multiline comment for testing Jenkins.
 */
 @SpringBootApplication
 public class CicdApplication {
