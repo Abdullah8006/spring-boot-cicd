@@ -9,6 +9,10 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+* Test conteoller for user related interactions
+**/
+
 @RestController()
 @RequestMapping("/users")
 public class UserController {
