@@ -1,0 +1,13 @@
+
+server:
+  port: 8081
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: validate
+      dialect: org.hibernate.dialect.MySQL5Dialect
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/mig
+    username: abd_phelix
+    password: AllahSamad_1
